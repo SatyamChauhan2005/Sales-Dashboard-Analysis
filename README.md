@@ -6,4 +6,5 @@
 ## Sales Dashboard 
 <a href= "https://www.linkedin.com/posts/satyamchauhan2005_mis-executive-advanced-excel-power-activity-7347203619026329600-QDEt?utm_source=share&utm_medium=member_android&rcm=ACoAAFSq-RABhDh9tE4gL83mWjCAad78pabk0DQ">view dashboard</a>.
 ## Dataset used       
-Dashboard Image<a href="[https://raw.githubusercontent.com/SatyamChauhan2005/Sales-Dashboard-Analysis/refs/heads/main/IMG_20250705_152920.png](https://github.com/SatyamChauhan2005/Sales-Dashboard-Analysis/blob/main/Screenshot%202025-07-07%20051253.png)">image view</a>.
+-Dashboard Image<a href="https://github.com/SatyamChauhan2005/Sales-Dashboard-Analysis/blob/main/Screenshot%202025-07-07%20051253.png">image view</a>.
+-Raw Data <a href ="https://github.com/SatyamChauhan2005/Sales-Dashboard-Analysis/blob/main/sales_data_1000_rows.xlsx"> Dataset</a>.
